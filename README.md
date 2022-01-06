@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @WBarakzai
+- 👋 Hi, I’m Waheedullah Barakzai
 - 👀 I’m interested in developing softwares
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me through my email address: waheedbarakzai
+<!-- - 💞️ I’m looking to collaborate on ... -->
+- 📫 you can reach me through my email address: waheedbarakzai@yahoo.com
 
 <!---
 WBarakzai/WBarakzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
